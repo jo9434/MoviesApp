@@ -56,3 +56,9 @@ port address instead of default) */
 
 Step 5: To login once the application is live, refer to the code in the login.component.ts to view the usernames
 and password details in an array.
+
+Note: If NodeJS & Visual Studio Code is not present in your system, then install it.
+NodeJS (Download the current version 18.3.0):  https://nodejs.org/en/
+Visual Studio Code: https://code.visualstudio.com/
+
+As without nodejs, ng serve cannot work.
