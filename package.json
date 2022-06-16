@@ -5,8 +5,7 @@
     "node": "18.3.0"
   },
   "author": {
-    "name": "joel-allan-william",
-    "email": "wjoel774@gmail.com"
+    "name": "joel-allan-william"
   },
   "scripts": {
     "ng": "ng",
