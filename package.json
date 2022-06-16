@@ -1,7 +1,6 @@
 {
   "name": "moviesapp",
   "version": "1.0.0",
-  "main": "index.html",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -45,8 +44,6 @@
   ],
   "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.",
   "author": "joel-allan-william",
-  "license": "ISC",
-  "engines": {
-    "node": "14.x"
-  }
+  "main": "karma.conf.js",
+  "license": "ISC"
 }
